@@ -1,0 +1,445 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+  margin-top:80px;
+  margin-left: 200px;
+}
+.div11
+{
+position: relative;
+  padding-bottom:44.5% ;
+  padding-top:5px;
+  height: 0px;
+
+
+}
+.div11 iframe{
+position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+    width: 100%;
+  }
+/* .ep21{
+  position: relative;
+  padding-bottom:44.5% ;
+  padding-top:5px;
+  height: 0px;
+} */
+/* .ep21 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep31{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep31 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep41{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep41 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep51{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep51 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep61{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep61 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep71{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep71 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep81{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep81 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep91{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep91 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep101{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep101 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+} */
+
+
+
+.ep12{
+  position: relative;
+  padding-bottom:44.5% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep12 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}
+/* .ep22{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep22 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep32{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep32 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep42{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep42 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep52{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep52 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep62{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep62 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep72{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep72 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep82{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep82 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep92{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep92 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep102{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep102 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+} */
+
+
+
+
+.ep13{
+  position: relative;
+  padding-bottom:44.5% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep13 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}
+/* .ep23{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep23 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep33{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep33 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep43{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep43 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep53{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep53 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep63{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep63 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep73{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep73 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep83{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep83 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep93{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep93 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+}.ep103{
+  position: relative;
+  padding-bottom:56.25% ;
+  padding-top:5px;
+  height: 0px;
+}
+.ep103 iframe{
+  position:absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 100px;
+  height:100%;
+  width: 100%;
+} */

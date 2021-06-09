@@ -1,0 +1,47 @@
+.container {
+  /* background-color: rgb(255, 167, 108);
+height: 700px;
+width:auto;
+margin: auto;
+align-items: center;
+justify-content: center; */
+}
+.center {
+  /* align-items: center; */
+}
+.title {
+  font-size: 60px;
+}
+
+.m-0 {
+  margin: 0px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.d-inline {
+  display: inline;
+}
+
+.img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -80%);
+}
+
+.buttons {
+  margin-top: 40px;
+}
+
+.btn {
+  padding: 2px 8px;
+  background: orangered;
+  color: white;
+  border: 1px solid orangered;
+  border-radius: 5px;
+  width: 50px;
+  cursor: pointer;
+}
